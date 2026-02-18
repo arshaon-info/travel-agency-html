@@ -1,0 +1,344 @@
+/*extra small device (portrait phone, less than 576px)*/
+@media (min-width: 320px) and (max-width: 576.98px) {
+	/*heder start*/
+	header{
+	padding: 5px 0;
+}
+.logo {
+    width: 130px;
+}
+
+	.menu ul li a{
+	padding: 0 10px 5px !important;
+}
+.s_btn{
+	margin-left: 5px;
+}
+/*banner start*/
+.p1 {
+  margin: 10px 47px 0 29px;
+    }
+.h1 {
+  margin: 0px 37px 20px 29px;
+  font-size: 27px;
+  line-height: 42px;
+}
+.p2 {
+  margin: 0 26px 0 27px;
+  line-height: 35px;
+}
+.b_link {
+        margin: 20px 14px 15px 75px;
+}
+
+/*feature start*/
+.c_p{
+	padding-bottom: 60px;
+}
+.f_img{
+	width: 65px;
+	height: 69px;
+}
+
+/*booking start*/
+.c_h1{
+	
+	font-size: 20px;
+}
+/*book buy air ticket start*/
+.bok_item{
+	margin: 30px 0 0;
+	padding: 20px 15px 25px;
+}
+.bok_span{
+	font-size: 12px;
+}
+.bok_link {
+    margin: 14px 0 18px;
+}
+.bok_icon{
+	width: 17px;
+}
+
+/*Services testimony start*/
+.t_item{
+    margin-top: 2px;
+}
+.t_img img {
+    padding: 0 60px 20px;
+}
+.t_text p {
+    text-align: center;
+}
+
+/*footer top start*/
+.footer_top{
+	padding: 55px 0 20px;
+	text-align: center;
+}
+
+.ft_details{
+	margin-bottom: 35px;
+	padding-right: 0;
+}
+
+.ft_link{
+	margin-bottom: 35px;
+}
+}
+
+/*small device (landscap phone, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px){
+	/*heder start*/
+	header{
+	padding: 5px 0;
+}
+.logo {
+    width: 190px;
+}
+
+	.menu ul li a{
+	padding: 0 10px 5px !important;
+}
+.s_btn{
+	margin-left: 5px;
+}
+/*banner start*/
+.p1 {
+    margin: 10px 150px 0 150px;
+}
+
+.h1{
+	margin: 10px 20px 20px 20px;
+	font-size: 30px;
+	line-height: 50px;
+}
+.p2 {
+    margin: 0 16px 0 18px;
+    font-size: 16px;
+    line-height: 30px;
+}
+ .b_link {
+     margin: 20px 171px 15px 194px;
+}
+
+/*feature start*/
+.c_p{
+	padding-bottom: 60px;
+}
+.f_img{
+	width: 65px;
+	height: 69px;
+}
+
+/*booking start*/
+.c_h1{
+	
+	font-size: 25px;
+}
+/*book buy air ticket start*/
+.bok_item{
+	margin: 40px 100px 0;
+}
+.bok_span{
+	font-size: 13px;
+}
+.bok_link {
+    margin: 15px 0 20px;
+}
+.bok_icon{
+	width: 15px;
+}
+/*Services testimony start*/
+.t_item{
+    margin-top: 2px;
+}
+.t_img img {
+    padding: 0 125px 20px;
+}
+.t_text p {
+    text-align: center;
+}
+
+/*footer top start*/
+.footer_top{
+	text-align: center;
+}
+.ft_details{
+	margin-bottom: 40px;
+	padding-right: 90px;
+	padding-left: 90px;
+}
+
+}
+
+/*medium device (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px){
+/*heder start*/
+	header{
+	padding: 5px 0;
+}
+
+.logo {
+    width: 200px;
+}
+
+	.menu ul li a{
+	padding: 0 10px 5px !important;
+}
+.s_btn{
+	margin-left: 5px;
+}
+/*banner start*/
+.p1 {
+    margin: 0 240px 0 240px;
+}
+.h1{
+	margin: 10px 80px 20px 80px;
+}
+.b_img img{
+	margin: 0 20px 30px 20px;
+}
+.b_link {
+    margin: 20px 220px 10px 286px;
+}
+
+/*feature start*/
+.c_p{
+	padding-bottom: 80px;
+}
+
+/*booking start*/
+.c_h1{
+	
+	font-size: 30px;
+}
+/*book buy air ticket start*/
+.bok_item{
+	margin: 40px 100px 0;
+}
+.bok_span{
+	font-size: 18px;
+}
+.bok_link {
+    margin: 20px 0 25px;
+}
+.bok_icon{
+	width: 23px;
+}
+/*Services testimony start*/
+.t_item{
+    margin-top: 5px;
+}
+
+/*footer top start*/
+.footer_top{
+	text-align: center;
+}
+.ft_details{
+	margin-bottom: 40px;
+	padding-right: 80px;
+	padding-left: 80px;
+}
+}
+
+/*large device (desktop, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px){
+   header{
+	padding: 5px 0;
+}
+
+	.logo {
+    width: 170px;
+}
+	.menu ul li a{
+	padding: 0 10px !important;
+}
+.s_btn{
+	margin-left: 5px;
+    padding: 12px 25px;
+}
+/*banner start*/
+.h1{
+	margin: 10px 50px 20px 0px;
+}
+
+/*feature start*/
+.f_img{
+	width: 65px;
+	height: 69px;
+}
+
+/*Booking Air Ticket start*/
+.c_h1 {
+    font-size: 32px;
+}
+
+/*book buy air ticket start*/
+.bok_item{
+	padding: 20px 15px 25px;
+	
+}
+.bok_icon{
+	width: 16px;
+}
+.bok_link {
+    margin: 15px 0 20px;
+}
+.book:not(:last-child){
+	margin-right: 0px;
+}
+.bok_span{
+	font-size: 13px;
+}
+}
+
+/*extra large device (large desktop, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px){
+	/*banner start*/
+
+.h1{
+	margin: 10px 117px 20px 0px;
+}
+/*book buy air ticket start*/
+.bok_link {
+    margin: 15px 0 25px;
+}
+.bok_span{
+	font-size: 15px;
+}
+.bok_icon{
+	width: 17px;
+}
+}
+
+/*extra extra large device (large desktop, 1400px and up)*/
+@media (min-width: 1400px){
+  header{
+	padding: 5px 0;
+}
+
+.logo {
+    width: 230px;
+}
+
+	.menu ul li a{
+	padding: 0 30px !important;
+}
+.s_btn{
+padding: 12px 30px;
+}
+/*banner start*/
+.h1{
+	margin:10px 50px 20px 0px;
+}
+/*feature start*/
+.f_item {
+    padding: 50px 30px 50px;  
+}
+
+/*footer top start*/
+.ft_details{
+	padding-right: 130px;
+}
+}
